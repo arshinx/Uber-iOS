@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParseStarterProject/RiderViewController.swift"
+            timestampString = "484284130.008881"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "RiderViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uber.RiderViewController.callUberButton.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Uber"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arshin/Desktop/iOS%20Projects/Tibbit/Uber/ParseStarterProject/RiderViewController.swift"
+                  timestampString = "484284132.299082"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uber.RiderViewController.callUberButton.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Uber"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arshin/Desktop/iOS%20Projects/Tibbit/Uber/ParseStarterProject/RiderViewController.swift"
+                  timestampString = "484284132.301222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uber.RiderViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Uber.RiderViewController"
+                  moduleName = "Uber"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arshin/Desktop/iOS%20Projects/Tibbit/Uber/ParseStarterProject/RiderViewController.swift"
+                  timestampString = "484284132.301967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uber.RiderViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Uber.RiderViewController&gt;"
+                  moduleName = "Uber"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arshin/Desktop/iOS%20Projects/Tibbit/Uber/ParseStarterProject/RiderViewController.swift"
+                  timestampString = "484284132.302085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
