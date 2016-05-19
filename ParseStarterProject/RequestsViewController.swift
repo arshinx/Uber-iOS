@@ -10,7 +10,6 @@ import UIKit
 import Parse
 import MapKit
 
-
 class RequestsViewController: UIViewController, CLLocationManagerDelegate {
     
     // Outlets
